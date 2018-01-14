@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Ignore Sensitive Data
+DARI_nmsp-dv-2015_deidentified.arff
+DARI_noDate_noString_demo_only.arff
+DARI_noDate_noString.arff
